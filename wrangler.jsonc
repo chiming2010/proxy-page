@@ -1,0 +1,7 @@
+{
+    "name": "proxy-page",
+    "compatibility_date": "2026-4-19",
+    "assets": {
+        "directoy": "./dist"
+    }
+}
